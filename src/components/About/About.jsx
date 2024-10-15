@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import SectionHeader from "../SectionHeader/SectionHeader";
-import exhustedMan from "../../assets/oussama.png";
+import exhustedMan from "../../assets/soufiane.png";
 import SocialLinks from "../SocialLinks/SocialLinks";
 import Resume from "../../assets/CV_OussemaHamdi_WebDeveloper.pdf";
 import ReactGA from "react-ga4";
@@ -27,7 +27,7 @@ const About = () => {
             <br />
 
             <p>
-              Hey there! I'm <span className="about-name">Oussama Hamdi</span>,
+              Hey there! I'm <span className="about-name">Soufiane Tangi</span>,
               a passionate Web Developer based in Tunisia. I recently graduated
               from the ALX Software Engineering program, powered by Holberton
               Inc, with a specialization in front-end development. My journey

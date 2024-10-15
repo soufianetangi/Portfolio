@@ -9,9 +9,13 @@ function Footer() {
         <SocialLinks />
         <p>
           &copy; 2024 All rights reserved | Crafted with passion by{" "}
-          <span>Oussama Hamdi</span> | Powered by Coffee & Creativity
+          <span>Soufiane Tangi</span> | Powered by Coffee & Creativity
         </p>
       </div>
     </footer>
   );
 }
+
+// Add this line to export the Footer component as the default export
+export default Footer;
+

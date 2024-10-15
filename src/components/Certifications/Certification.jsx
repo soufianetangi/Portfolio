@@ -16,3 +16,5 @@ function Certification({ img, title, provider, date, link }) {
     </div>
   );
 }
+
+export default Certification; // Ensure the component is exported correctly
