@@ -1,10 +1,10 @@
-![image](https://github.com/soufianetangi//assets/)
+![image](https://github.com/soufianetangi//assets/105258746/fc32b316-0838-432c-9e66-f8279c62bc6b)
 
 
 - This is my portfolio website bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) + typescript and styled with tailwindcsss.
 
 
-- Live Link [Go Live](https:///)
+- Live Link [Go Live](https://soufianetangi.vercel.app/)
 ## Getting Started
 
 First, run the development server:
