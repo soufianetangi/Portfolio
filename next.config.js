@@ -5,6 +5,6 @@ module.exports = nextConfig
 
 module.exports = {
     publicRuntimeConfig: {
-      metadataBase: 'https://lordwill.netlify.app/',
+      metadataBase: 'https://soufianetangi.vercel.app/',
     },
   };

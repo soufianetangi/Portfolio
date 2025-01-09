@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: 'Soufiane Tangi Portfolio',
   description: 'Software Engineer - Full Stack',
   openGraph: {
-    url: 'https://lordwill.netlify.app/',
+    url: 'https://soufianetangi.vercel.app/',
     images: 'https://github.com/soufianetangi/Portfolio/assets/105258746/fc32b316-0838-432c-9e66-f8279c62bc6b',
   },
 }
