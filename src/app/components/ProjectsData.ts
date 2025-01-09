@@ -15,7 +15,7 @@ interface ProjectDataTypes {
         projectTitle: "Get-Linked",
         ProjectAbout: "A technology innovation Hackathon established by a group of organizations with the aim of showcasing young and talented individuals in the field of technology",
         stack: "Javascript |Node.js | React.js | Vite | Typescript | TailwindCSS",
-        projectGithubURL: "https://github.com/lordwill1/getlinked",
+        projectGithubURL: "https://github.com/soufianetangi/getlinked",
         projectLiveURL: "https://mygetlinked.netlify.app",
     },
     {
@@ -24,7 +24,7 @@ interface ProjectDataTypes {
         projectTitle: "Sneakers",
         ProjectAbout: "An Ecommerce website where you upload your products for customers to purchase your products giving them access to various features",
         stack: "JavaScript | HTML | CSS",
-        projectGithubURL: "https://github.com/Lordwill1/E-commerce-website",
+        projectGithubURL: "https://github.com/soufianetangi/E-commerce-website",
         projectLiveURL: "https://lordwill1.github.io/E-commerce-website/",
     },
     
@@ -34,7 +34,7 @@ interface ProjectDataTypes {
         projectTitle: "Portfolio",
         ProjectAbout: "This is the website you are currently on. My portfolio website that showcases my about, what I do, stack, journey, projects and contact information.",
         stack: "NextJS | Typescript | TailwindCSS | AOS",
-        projectGithubURL: "https://github.com/Lordwill1/portfolio",
+        projectGithubURL: "https://github.com/soufianetangi/portfolio",
         projectLiveURL: "https://lordwill1.vercel.app/",
     },
     
@@ -44,7 +44,7 @@ interface ProjectDataTypes {
         projectTitle: "Jadoo",
         ProjectAbout: "A travel agency landing web page that shows the services offered by the agency, the destinations and booking options associated with the agency",
         stack: "NextJS | Typescript | TailwindCSS",
-        projectGithubURL: "https://github.com/Lordwill1/jadoo",
+        projectGithubURL: "https://github.com/soufianetangi/jadoo",
         projectLiveURL: "https://gojadoo.netlify.app/",
     },
     
@@ -54,7 +54,7 @@ interface ProjectDataTypes {
          projectTitle: "Just Do It",
          ProjectAbout: "A responsi, dynamic and aesthetic to-do list web app for keeping track of schedules and activties.",
          stack: "HTML | CSS | Javaript | Local Storage",
-         projectGithubURL: "https:github.com/Lordwill1/todo_list",
+         projectGithubURL: "https:github.com/soufianetangi/todo_list",
          projectLiveURL: "https://lordwill1.github.io/todo-list/",
      },
   ]
