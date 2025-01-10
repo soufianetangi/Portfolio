@@ -45,7 +45,7 @@ interface ProjectDataTypes {
          projectTitle: "Just Do It",
          ProjectAbout: "A responsi, dynamic and aesthetic to-do list web app for keeping track of schedules and activties.",
          stack: "HTML | CSS | Javaript | Local Storage",
-         projectGithubURL: "https:github.com/soufianetangi/todo_list",
+         projectGithubURL: "https:github.com/soufianetangi/todo_list/",
          projectLiveURL: "https://soufianetangi.github.io/todo-list/",
      },
   ]
