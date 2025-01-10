@@ -16,7 +16,7 @@ interface ProjectDataTypes {
         ProjectAbout: "A technology innovation Hackathon established by a group of organizations with the aim of showcasing young and talented individuals in the field of technology",
         stack: "Javascript |Node.js | React.js | Vite | Typescript | TailwindCSS",
         projectGithubURL: "https://github.com/soufianetangi/getlinked",
-        projectLiveURL: "https://mygetlinked.netlify.app",
+        projectLiveURL: "https://mygetlinked.",
     },
     
     {
@@ -36,7 +36,7 @@ interface ProjectDataTypes {
         ProjectAbout: "A travel agency landing web page that shows the services offered by the agency, the destinations and booking options associated with the agency",
         stack: "NextJS | Typescript | TailwindCSS",
         projectGithubURL: "https://github.com/soufianetangi/jadoo",
-        projectLiveURL: "https://gojadoo.netlify.app/",
+        projectLiveURL: "https://gojadoo./",
     },
     
      {
