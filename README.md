@@ -1,4 +1,5 @@
-![image](https://github.com/soufianetangi//assets/105258746/fc32b316-0838-432c-9e66-f8279c62bc6b)
+![portfolio](https://github.com/user-attachments/assets/f2b03d6b-504b-45d2-985c-ad0dec9a461d)
+
 
 
 - This is my portfolio website bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) + typescript and styled with tailwindcsss.
