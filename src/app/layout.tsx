@@ -3,6 +3,7 @@ import { Raleway } from 'next/font/google'
 import './globals.css'
 import { AOSInit } from './components/AOS'
 import { SpeedInsights } from '@vercel/speed-insights/next';
+import { Analytics } from "@vercel/analytics/react"
 
 const raleway = Raleway({ subsets: ['latin'] })
 
@@ -22,8 +23,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <SpeedInsights />
       <AOSInit />
+      <SpeedInsights />
+      <Analytics />
       <body className={raleway.className}>{children}</body>
     </html>
   )
