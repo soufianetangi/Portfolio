@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { Raleway } from 'next/font/google'
 import './globals.css'
 import { AOSInit } from './components/AOS'
+import { SpeedInsights } from '@vercel/speed-insights/next';
 
 const raleway = Raleway({ subsets: ['latin'] })
 
@@ -21,7 +22,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <AOSInit />  
+      <SpeedInsights />
+      <AOSInit />
       <body className={raleway.className}>{children}</body>
     </html>
   )

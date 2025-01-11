@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@vercel/speed-insights": "^1.1.0",
     "aos": "^3.0.0-beta.6",
     "next": "^15.1.4",
     "patch-package": "^8.0.0",
