@@ -10,6 +10,16 @@ interface ProjectDataTypes {
   
   const ProjectData: ProjectDataTypes[] = [
     {
+        id: 2,
+        projectImgURL: "/img/qrcodego.png",
+        projectTitle: "QR-Go",
+        ProjectAbout: "A QR-Code generator website that allows authenticated users to effortlessly generate a downloadable QR codes that safeguards their data and help them advertise their businesses or idea either by file upload or via inputting a valid URL",
+        stack: "NextJS | Typescript | TailwindCSS | Framer-Motion | Firebase Auth | Firestore | Firebase Storage",
+        projectGithubURL: "https://github.com/soufianetangi/qr-go",
+        projectLiveURL: "https://qrcode-go.vercel.app/",
+    },
+
+    {
         id: 1,
         projectImgURL: "/img/getlinked.png",
         projectTitle: "Get-Linked",
