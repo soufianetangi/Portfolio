@@ -10,17 +10,17 @@ interface ProjectDataTypes {
   
   const ProjectData: ProjectDataTypes[] = [
     {
-        id: 2,
+        id: 1,
         projectImgURL: "/img/qrcodego.png",
         projectTitle: "QR-Go",
         ProjectAbout: "A QR-Code generator website that allows authenticated users to effortlessly generate a downloadable QR codes that safeguards their data and help them advertise their businesses or idea either by file upload or via inputting a valid URL",
         stack: "NextJS | Typescript | TailwindCSS | Framer-Motion | Firebase Auth | Firestore | Firebase Storage",
         projectGithubURL: "https://github.com/soufianetangi/qr-go",
-        projectLiveURL: "https://qrcode-go.vercel.app/",
+        projectLiveURL: "https://qr-go-tau.vercel.app/",
     },
 
     {
-        id: 1,
+        id: 2,
         projectImgURL: "/img/getlinked.png",
         projectTitle: "Get-Linked",
         ProjectAbout: "A technology innovation Hackathon established by a group of organizations with the aim of showcasing young and talented individuals in the field of technology",
@@ -30,17 +30,17 @@ interface ProjectDataTypes {
     },
     
     {
-        id: 2,
+        id: 3,
         projectImgURL: "/img/portfolio.png",
         projectTitle: "Portfolio",
         ProjectAbout: "This is the website you are currently on. My portfolio website that showcases my about, what I do, stack, journey, projects and contact information.",
         stack: "NextJS | Typescript | TailwindCSS | AOS",
         projectGithubURL: "https://github.com/soufianetangi/portfolio",
-        projectLiveURL: "https://lordwill1.vercel.app/",
+        projectLiveURL: "https://soufianetangi.vercel.app/",
     },
     
     {
-        id: 3,
+        id: 4,
         projectImgURL: "/img/jadoo.png",
         projectTitle: "Jadoo",
         ProjectAbout: "A travel agency landing web page that shows the services offered by the agency, the destinations and booking options associated with the agency",
@@ -50,7 +50,7 @@ interface ProjectDataTypes {
     },
     
      {
-         id: 4,
+         id: 5,
          projectImgURL: "/img/just-do-it.png",
          projectTitle: "Just Do It",
          ProjectAbout: "A responsi, dynamic and aesthetic to-do list web app for keeping track of schedules and activties.",
