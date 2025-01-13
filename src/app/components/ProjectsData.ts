@@ -46,7 +46,7 @@ interface ProjectDataTypes {
         ProjectAbout: "A travel agency landing web page that shows the services offered by the agency, the destinations and booking options associated with the agency",
         stack: "NextJS | Typescript | TailwindCSS",
         projectGithubURL: "https://github.com/soufianetangi/jadoo",
-        projectLiveURL: "https://gojadoo./",
+        projectLiveURL: "https://jadoo-pi.vercel.app/",
     },
     
      {
