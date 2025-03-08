@@ -1,14 +1,14 @@
 import type { Metadata } from 'next'
 import { Raleway } from 'next/font/google'
 import './globals.css'
-import { AOSInit } from './components/AOS'
-import { SpeedInsights } from '@vercel/speed-insights/next'
-import { Analytics } from '@vercel/analytics/next';
+// import { AOSInit } from './components/AOS'
+// import { SpeedInsights } from '@vercel/speed-insights/next'
+// import { Analytics } from '@vercel/analytics/next';
 
 const raleway = Raleway({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Soufiane Tangi Portfolio',
+  title: 'Portfolio Soufiane Tangi',
   description: 'Software Engineer - Full Stack',
   openGraph: {
     url: 'https://soufianetangi.vercel.app/',
@@ -23,9 +23,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <Analytics />
-      <AOSInit />
-      <SpeedInsights />
+      {/* <Analytics /> */}
+      {/* <AOSInit /> */}
+      {/* <SpeedInsights /> */}
       <body className={raleway.className}>{children}</body>
     </html>
   )
