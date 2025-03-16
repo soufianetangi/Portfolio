@@ -25,9 +25,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={raleway.className}>
-        <Analytics />
-        <AOSInit />
-        <SpeedInsights />
+      <Analytics />
+      <AOSInit />
+      <SpeedInsights />
         {children}
       </body>
     </html>
