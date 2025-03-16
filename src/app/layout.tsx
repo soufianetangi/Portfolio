@@ -14,6 +14,7 @@ export const metadata: Metadata = {
     url: 'https://soufianetangi.vercel.app/',
     images: 'https://github.com/soufianetangi/Portfolio/assets/105258746/fc32b316-0838-432c-9e66-f8279c62bc6b',
   },
+  author: 'Soufiane Tangi', // Added author property
 }
 
 export default function RootLayout({
@@ -23,10 +24,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <Analytics />
-      <AOSInit />
-      <SpeedInsights />
-      <body className={raleway.className}>{children}</body>
+      <body className={raleway.className}>
+        <Analytics />
+        <AOSInit />
+        <SpeedInsights />
+        {children}
+      </body>
     </html>
   )
 }
